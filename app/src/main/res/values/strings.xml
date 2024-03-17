@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">COLPAZAPP</string>
+    <string name="titleRegister">Registro COLPAZ</string>
+    <string name="buttonLogin">Iniciar Sesion</string>
+    <string name="buttonRegister">Registrarse</string>
+    <string name="about_me">Hola! Me llamo Diego Fernando Mendez Rojas, un estudiante apasionado de Ingenieria de Sistemas y Tecnologia. Como desarrollador junior, disfruto explorando nuevas tecnologías y creando soluciones creativas. Mis conocimientos incluyen Java, Python, HTML, CSS, JavaScript, y mucho mas. Ademas de la programacion, me encanta aprender sobre inteligencia artificial y desarrollo movil. Siempre estoy buscando nuevas oportunidades para crecer y colaborar!</string>
+</resources>
